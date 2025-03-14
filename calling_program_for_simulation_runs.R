@@ -56,7 +56,7 @@ run_simulation_test <- function(scenario, fun_simArm, getPBIRcurve, robustvar, n
 #alternative scenario 1:
 scenario_C<-data.frame(npatients=300,trtname="C",lambda01=1,lambda02=0.6,lambda12raw=0.5,slope12=0.4,lambda_cens=0.3)
 scenario_T<-data.frame(npatients=300,trtname="T",lambda01=1.2,lambda02=0.5,lambda12raw=0.3,slope12=0.2,lambda_cens=0.4)
-scenario1 <- list(scenario_C = scenario_C, scenario_T = scenario_T, scenario_number="11_1")
+scenario1 <- list(scenario_C = scenario_C, scenario_T = scenario_T, scenario_number="N1_600")
 
 beginsim<-Sys.time()
 my1stsimtest<-run_simulation_test(scenario=scenario1, fun_simArm=simulate1trialarm, getPBIRcurve=getPBIRcurve, robustvar=robustvar,

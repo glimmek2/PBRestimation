@@ -1,0 +1,555 @@
+"ID","trt","time","trans02","cens0","trans01","trans12","cens1","totcases"
+"1002001","Best available therapy",2,1,0,0,0,0,164
+"1002002","Best available therapy",121,0,1,0,0,0,164
+"1002003","Best available therapy",166,1,0,0,0,0,164
+"1002005","Best available therapy",15,0,0,1,0,0,164
+"1002005","Best available therapy",226,0,0,0,0,1,164
+"1101001","Best available therapy",92,1,0,0,0,0,164
+"1101002","Best available therapy",57,0,0,1,0,0,164
+"1101002","Best available therapy",763,0,0,0,0,1,164
+"1102001","Best available therapy",44,1,0,0,0,0,164
+"1102003","Best available therapy",56,0,0,1,0,0,164
+"1102003","Best available therapy",655,0,0,0,0,1,164
+"1102005","Best available therapy",67,0,0,1,0,0,164
+"1102005","Best available therapy",83,0,0,0,1,0,164
+"1103001","Best available therapy",13,0,0,1,0,0,164
+"1103001","Best available therapy",22,0,0,0,1,0,164
+"1206001","Best available therapy",28,0,0,1,0,0,164
+"1206001","Best available therapy",431,0,0,0,1,0,164
+"1304001","Best available therapy",28,0,0,1,0,0,164
+"1304001","Best available therapy",567,0,0,0,0,1,164
+"1304002","Best available therapy",28,0,0,1,0,0,164
+"1304002","Best available therapy",140,0,0,0,1,0,164
+"1503001","Best available therapy",64,0,0,1,0,0,164
+"1503001","Best available therapy",306,0,0,0,1,0,164
+"1503002","Best available therapy",139,0,0,1,0,0,164
+"1503002","Best available therapy",169,0,0,0,1,0,164
+"1601004","Best available therapy",28,0,0,1,0,0,164
+"1601004","Best available therapy",524,0,0,0,0,1,164
+"1701001","Best available therapy",1,1,0,0,0,0,164
+"1702001","Best available therapy",16,0,0,1,0,0,164
+"1702001","Best available therapy",115,0,0,0,1,0,164
+"1702002","Best available therapy",16,0,0,1,0,0,164
+"1702002","Best available therapy",84,0,0,0,1,0,164
+"1702004","Best available therapy",0,1,0,0,0,0,164
+"1706001","Best available therapy",0,1,0,0,0,0,164
+"1710001","Best available therapy",15,0,0,1,0,0,164
+"1710001","Best available therapy",85,0,0,0,1,0,164
+"1712001","Best available therapy",171,0,0,1,0,0,164
+"1712001","Best available therapy",171,0,0,0,1,0,164
+"1801001","Best available therapy",47,1,0,0,0,0,164
+"1801002","Best available therapy",16,0,0,1,0,0,164
+"1801002","Best available therapy",309,0,0,0,0,1,164
+"1803003","Best available therapy",59,0,0,1,0,0,164
+"1803003","Best available therapy",684,0,0,0,0,1,164
+"1803006","Best available therapy",14,0,0,1,0,0,164
+"1803006","Best available therapy",389,0,0,0,0,1,164
+"1803007","Best available therapy",15,0,0,1,0,0,164
+"1803007","Best available therapy",351,0,0,0,0,1,164
+"1803008","Best available therapy",8,1,0,0,0,0,164
+"1803009","Best available therapy",96,1,0,0,0,0,164
+"1804001","Best available therapy",48,1,0,0,0,0,164
+"1805001","Best available therapy",14,0,0,1,0,0,164
+"1805001","Best available therapy",672,0,0,0,0,1,164
+"1805002","Best available therapy",33,0,0,1,0,0,164
+"1805002","Best available therapy",411,0,0,0,0,1,164
+"1805003","Best available therapy",83,0,0,1,0,0,164
+"1805003","Best available therapy",195,0,0,0,1,0,164
+"1806001","Best available therapy",29,0,0,1,0,0,164
+"1806001","Best available therapy",239,0,0,0,1,0,164
+"1808001","Best available therapy",58,0,0,1,0,0,164
+"1808001","Best available therapy",377,0,0,0,0,1,164
+"1808002","Best available therapy",13,0,0,1,0,0,164
+"1808002","Best available therapy",347,0,0,0,0,1,164
+"1809001","Best available therapy",42,0,0,1,0,0,164
+"1809001","Best available therapy",208,0,0,0,1,0,164
+"1812004","Best available therapy",14,0,0,1,0,0,164
+"1812004","Best available therapy",337,0,0,0,0,1,164
+"1812005","Best available therapy",41,0,0,1,0,0,164
+"1812005","Best available therapy",77,0,0,0,1,0,164
+"1821001","Best available therapy",63,0,1,0,0,0,164
+"1822003","Best available therapy",16,0,0,1,0,0,164
+"1822003","Best available therapy",16,0,0,0,1,0,164
+"1825001","Best available therapy",64,0,0,1,0,0,164
+"1825001","Best available therapy",169,0,0,0,1,0,164
+"2001001","Best available therapy",179,1,0,0,0,0,164
+"2001004","Best available therapy",161,1,0,0,0,0,164
+"2001005","Best available therapy",13,0,0,1,0,0,164
+"2001005","Best available therapy",809,0,0,0,0,1,164
+"2001008","Best available therapy",28,0,0,1,0,0,164
+"2001008","Best available therapy",164,0,0,0,1,0,164
+"2001009","Best available therapy",14,0,0,1,0,0,164
+"2001009","Best available therapy",29,0,0,0,1,0,164
+"2001010","Best available therapy",13,0,0,1,0,0,164
+"2001010","Best available therapy",451,0,0,0,0,1,164
+"2004001","Best available therapy",30,0,0,1,0,0,164
+"2004001","Best available therapy",689,0,0,0,1,0,164
+"2004002","Best available therapy",14,0,0,1,0,0,164
+"2004002","Best available therapy",23,0,0,0,1,0,164
+"2004004","Best available therapy",28,0,0,1,0,0,164
+"2004004","Best available therapy",32,0,0,0,1,0,164
+"2004006","Best available therapy",6,1,0,0,0,0,164
+"2004007","Best available therapy",14,0,0,1,0,0,164
+"2004007","Best available therapy",224,0,0,0,0,1,164
+"2102002","Best available therapy",31,0,0,1,0,0,164
+"2102002","Best available therapy",127,0,0,0,1,0,164
+"2102004","Best available therapy",56,0,0,1,0,0,164
+"2102004","Best available therapy",147,0,0,0,1,0,164
+"2103001","Best available therapy",63,1,0,0,0,0,164
+"2103002","Best available therapy",98,1,0,0,0,0,164
+"2103003","Best available therapy",26,0,0,1,0,0,164
+"2103003","Best available therapy",173,0,0,0,1,0,164
+"2103005","Best available therapy",56,0,0,1,0,0,164
+"2103005","Best available therapy",165,0,0,0,1,0,164
+"2103006","Best available therapy",14,0,0,1,0,0,164
+"2103006","Best available therapy",385,0,0,0,0,1,164
+"2103007","Best available therapy",2,0,1,0,0,0,164
+"2104002","Best available therapy",28,0,0,1,0,0,164
+"2104002","Best available therapy",168,0,0,0,1,0,164
+"2106001","Best available therapy",31,0,0,1,0,0,164
+"2106001","Best available therapy",291,0,0,0,1,0,164
+"2107001","Best available therapy",57,0,0,1,0,0,164
+"2107001","Best available therapy",76,0,0,0,1,0,164
+"2107003","Best available therapy",28,0,0,1,0,0,164
+"2107003","Best available therapy",35,0,0,0,1,0,164
+"2107005","Best available therapy",16,0,0,1,0,0,164
+"2107005","Best available therapy",79,0,0,0,1,0,164
+"2107008","Best available therapy",58,0,0,1,0,0,164
+"2107008","Best available therapy",169,0,0,0,1,0,164
+"2107009","Best available therapy",15,0,0,1,0,0,164
+"2107009","Best available therapy",490,0,0,0,0,1,164
+"2107011","Best available therapy",55,0,0,1,0,0,164
+"2107011","Best available therapy",197,0,0,0,1,0,164
+"2107012","Best available therapy",57,0,0,1,0,0,164
+"2107012","Best available therapy",281,0,0,0,0,1,164
+"2107013","Best available therapy",16,0,0,1,0,0,164
+"2107013","Best available therapy",178,0,0,0,0,1,164
+"2111001","Best available therapy",17,0,0,1,0,0,164
+"2111001","Best available therapy",205,0,0,0,1,0,164
+"2112001","Best available therapy",179,0,1,0,0,0,164
+"2113001","Best available therapy",171,1,0,0,0,0,164
+"2114001","Best available therapy",179,0,1,0,0,0,164
+"2114004","Best available therapy",16,0,0,1,0,0,164
+"2114004","Best available therapy",136,0,0,0,0,1,164
+"2116001","Best available therapy",179,0,1,0,0,0,164
+"2118004","Best available therapy",42,0,0,1,0,0,164
+"2118004","Best available therapy",322,0,0,0,1,0,164
+"2118005","Best available therapy",34,0,0,1,0,0,164
+"2118005","Best available therapy",580,0,0,0,0,1,164
+"2118008","Best available therapy",17,0,0,1,0,0,164
+"2118008","Best available therapy",153,0,0,0,0,1,164
+"2120001","Best available therapy",0,1,0,0,0,0,164
+"2123003","Best available therapy",16,0,0,1,0,0,164
+"2123003","Best available therapy",387,0,0,0,0,1,164
+"2201002","Best available therapy",153,1,0,0,0,0,164
+"2201004","Best available therapy",77,0,0,1,0,0,164
+"2201004","Best available therapy",112,0,0,0,1,0,164
+"2201007","Best available therapy",179,0,1,0,0,0,164
+"2202003","Best available therapy",14,0,0,1,0,0,164
+"2202003","Best available therapy",74,0,0,0,1,0,164
+"2204001","Best available therapy",57,0,0,1,0,0,164
+"2204001","Best available therapy",196,0,0,0,0,1,164
+"2204003","Best available therapy",6,1,0,0,0,0,164
+"2205001","Best available therapy",31,1,0,0,0,0,164
+"2207002","Best available therapy",57,1,0,0,0,0,164
+"2210001","Best available therapy",52,1,0,0,0,0,164
+"2211002","Best available therapy",179,0,1,0,0,0,164
+"2211003","Best available therapy",41,1,0,0,0,0,164
+"2215002","Best available therapy",14,0,0,1,0,0,164
+"2215002","Best available therapy",169,0,0,0,1,0,164
+"2215004","Best available therapy",56,0,0,1,0,0,164
+"2215004","Best available therapy",566,0,0,0,0,1,164
+"2215006","Best available therapy",55,0,0,1,0,0,164
+"2215006","Best available therapy",236,0,0,0,0,1,164
+"2215007","Best available therapy",14,0,0,1,0,0,164
+"2215007","Best available therapy",49,0,0,0,1,0,164
+"2301001","Best available therapy",28,0,0,1,0,0,164
+"2301001","Best available therapy",56,0,0,0,1,0,164
+"2301002","Best available therapy",13,0,0,1,0,0,164
+"2301002","Best available therapy",27,0,0,0,1,0,164
+"2301003","Best available therapy",89,0,0,1,0,0,164
+"2301003","Best available therapy",316,0,0,0,0,1,164
+"2402002","Best available therapy",14,0,0,1,0,0,164
+"2402002","Best available therapy",610,0,0,0,0,1,164
+"2402003","Best available therapy",14,0,0,1,0,0,164
+"2402003","Best available therapy",56,0,0,0,1,0,164
+"2501003","Best available therapy",29,0,0,1,0,0,164
+"2501003","Best available therapy",369,0,0,0,1,0,164
+"2701001","Best available therapy",84,1,0,0,0,0,164
+"2702001","Best available therapy",174,1,0,0,0,0,164
+"2702002","Best available therapy",179,0,1,0,0,0,164
+"2702004","Best available therapy",28,0,0,1,0,0,164
+"2702004","Best available therapy",103,0,0,0,1,0,164
+"2801003","Best available therapy",50,0,0,1,0,0,164
+"2801003","Best available therapy",253,0,0,0,1,0,164
+"2801010","Best available therapy",29,0,0,1,0,0,164
+"2801010","Best available therapy",477,0,0,0,0,1,164
+"2904005","Best available therapy",0,1,0,0,0,0,164
+"2904006","Best available therapy",3,1,0,0,0,0,164
+"2904007","Best available therapy",0,1,0,0,0,0,164
+"2905002","Best available therapy",17,0,0,1,0,0,164
+"2905002","Best available therapy",198,0,0,0,1,0,164
+"2907001","Best available therapy",179,1,0,0,0,0,164
+"2909001","Best available therapy",52,1,0,0,0,0,164
+"2909002","Best available therapy",22,0,0,1,0,0,164
+"2909002","Best available therapy",441,0,0,0,1,0,164
+"3101001","Best available therapy",179,1,0,0,0,0,164
+"3102001","Best available therapy",21,0,0,1,0,0,164
+"3102001","Best available therapy",174,0,0,0,1,0,164
+"3201004","Best available therapy",82,0,0,1,0,0,164
+"3201004","Best available therapy",476,0,0,0,0,1,164
+"3202001","Best available therapy",16,0,0,1,0,0,164
+"3202001","Best available therapy",177,0,0,0,1,0,164
+"3204001","Best available therapy",0,1,0,0,0,0,164
+"3205003","Best available therapy",14,0,0,1,0,0,164
+"3205003","Best available therapy",60,0,0,0,1,0,164
+"3205008","Best available therapy",14,0,0,1,0,0,164
+"3205008","Best available therapy",179,0,0,0,0,1,164
+"3301001","Best available therapy",14,0,1,0,0,0,164
+"3301003","Best available therapy",16,0,1,0,0,0,164
+"3301004","Best available therapy",14,0,0,1,0,0,164
+"3301004","Best available therapy",213,0,0,0,1,0,164
+"3301005","Best available therapy",179,1,0,0,0,0,164
+"3301007","Best available therapy",15,0,0,1,0,0,164
+"3301007","Best available therapy",658,0,0,0,0,1,164
+"3301009","Best available therapy",80,0,0,1,0,0,164
+"3301009","Best available therapy",171,0,0,0,1,0,164
+"3304002","Best available therapy",24,0,1,0,0,0,164
+"3304004","Best available therapy",16,0,0,1,0,0,164
+"3304004","Best available therapy",407,0,0,0,0,1,164
+"3401005","Best available therapy",0,0,1,0,0,0,164
+"3403002","Best available therapy",5,1,0,0,0,0,164
+"3403003","Best available therapy",6,1,0,0,0,0,164
+"3403004","Best available therapy",35,1,0,0,0,0,164
+"3404002","Best available therapy",32,0,0,1,0,0,164
+"3404002","Best available therapy",221,0,0,0,1,0,164
+"3404004","Best available therapy",60,0,0,1,0,0,164
+"3404004","Best available therapy",483,0,0,0,0,1,164
+"3405001","Best available therapy",16,0,0,1,0,0,164
+"3405001","Best available therapy",555,0,0,0,0,1,164
+"3409002","Best available therapy",117,0,1,0,0,0,164
+"3410001","Best available therapy",35,0,0,1,0,0,164
+"3410001","Best available therapy",560,0,0,0,0,1,164
+"3411001","Best available therapy",15,0,0,1,0,0,164
+"3411001","Best available therapy",761,0,0,0,0,1,164
+"3416001","Best available therapy",110,0,1,0,0,0,164
+"3420001","Best available therapy",106,1,0,0,0,0,164
+"3420002","Best available therapy",170,1,0,0,0,0,164
+"3421001","Best available therapy",179,1,0,0,0,0,164
+"3424001","Best available therapy",25,1,0,0,0,0,164
+"3425003","Best available therapy",116,0,0,1,0,0,164
+"3425003","Best available therapy",172,0,0,0,1,0,164
+"3428001","Best available therapy",28,0,0,1,0,0,164
+"3428001","Best available therapy",56,0,0,0,1,0,164
+"3431001","Best available therapy",21,0,0,1,0,0,164
+"3431001","Best available therapy",175,0,0,0,1,0,164
+"3439002","Best available therapy",19,0,1,0,0,0,164
+"3447001","Best available therapy",177,1,0,0,0,0,164
+"3601002","Best available therapy",13,0,0,1,0,0,164
+"3601002","Best available therapy",56,0,0,0,1,0,164
+"3601005","Best available therapy",129,1,0,0,0,0,164
+"3701001","Best available therapy",89,1,0,0,0,0,164
+"3702001","Best available therapy",179,0,1,0,0,0,164
+"3702003","Best available therapy",26,1,0,0,0,0,164
+"3704002","Best available therapy",36,0,0,1,0,0,164
+"3704002","Best available therapy",90,0,0,0,1,0,164
+"3901002","Best available therapy",14,0,0,1,0,0,164
+"3901002","Best available therapy",148,0,0,0,1,0,164
+"3905001","Best available therapy",85,0,0,1,0,0,164
+"3905001","Best available therapy",147,0,0,0,1,0,164
+"3905003","Best available therapy",167,1,0,0,0,0,164
+"3905005","Best available therapy",168,1,0,0,0,0,164
+"3905006","Best available therapy",28,0,0,1,0,0,164
+"3905006","Best available therapy",221,0,0,0,1,0,164
+"3905008","Best available therapy",168,1,0,0,0,0,164
+"1001002","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"1001002","Ruxolitinib 10 mg BID",169,0,0,0,1,0,165
+"1002004","Ruxolitinib 10 mg BID",17,0,0,1,0,0,165
+"1002004","Ruxolitinib 10 mg BID",232,0,0,0,1,0,165
+"1102004","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"1102004","Ruxolitinib 10 mg BID",637,0,0,0,0,1,165
+"1103002","Ruxolitinib 10 mg BID",16,0,0,1,0,0,165
+"1103002","Ruxolitinib 10 mg BID",259,0,0,0,0,1,165
+"1201001","Ruxolitinib 10 mg BID",28,0,0,1,0,0,165
+"1201001","Ruxolitinib 10 mg BID",202,0,0,0,1,0,165
+"1201002","Ruxolitinib 10 mg BID",179,1,0,0,0,0,165
+"1201003","Ruxolitinib 10 mg BID",56,0,0,1,0,0,165
+"1201003","Ruxolitinib 10 mg BID",420,0,0,0,0,1,165
+"1301001","Ruxolitinib 10 mg BID",19,0,0,1,0,0,165
+"1301001","Ruxolitinib 10 mg BID",153,0,0,0,1,0,165
+"1303001","Ruxolitinib 10 mg BID",17,0,0,1,0,0,165
+"1303001","Ruxolitinib 10 mg BID",158,0,0,0,1,0,165
+"1303002","Ruxolitinib 10 mg BID",29,0,0,1,0,0,165
+"1303002","Ruxolitinib 10 mg BID",225,0,0,0,1,0,165
+"1303003","Ruxolitinib 10 mg BID",13,0,0,1,0,0,165
+"1303003","Ruxolitinib 10 mg BID",308,0,0,0,0,1,165
+"1502001","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"1502001","Ruxolitinib 10 mg BID",200,0,0,0,1,0,165
+"1601002","Ruxolitinib 10 mg BID",66,1,0,0,0,0,165
+"1601005","Ruxolitinib 10 mg BID",0,1,0,0,0,0,165
+"1601006","Ruxolitinib 10 mg BID",29,0,0,1,0,0,165
+"1601006","Ruxolitinib 10 mg BID",366,0,0,0,0,1,165
+"1702003","Ruxolitinib 10 mg BID",26,0,0,1,0,0,165
+"1702003","Ruxolitinib 10 mg BID",222,0,0,0,0,1,165
+"1703001","Ruxolitinib 10 mg BID",16,0,0,1,0,0,165
+"1703001","Ruxolitinib 10 mg BID",86,0,0,0,1,0,165
+"1706002","Ruxolitinib 10 mg BID",12,1,0,0,0,0,165
+"1714001","Ruxolitinib 10 mg BID",13,0,0,1,0,0,165
+"1714001","Ruxolitinib 10 mg BID",501,0,0,0,0,1,165
+"1801003","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"1801003","Ruxolitinib 10 mg BID",225,0,0,0,0,1,165
+"1801004","Ruxolitinib 10 mg BID",112,1,0,0,0,0,165
+"1803001","Ruxolitinib 10 mg BID",87,1,0,0,0,0,165
+"1803002","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"1803002","Ruxolitinib 10 mg BID",629,0,0,0,1,0,165
+"1803005","Ruxolitinib 10 mg BID",13,0,0,1,0,0,165
+"1803005","Ruxolitinib 10 mg BID",525,0,0,0,0,1,165
+"1807001","Ruxolitinib 10 mg BID",13,0,0,1,0,0,165
+"1807001","Ruxolitinib 10 mg BID",517,0,0,0,0,1,165
+"1812001","Ruxolitinib 10 mg BID",32,0,0,1,0,0,165
+"1812001","Ruxolitinib 10 mg BID",650,0,0,0,0,1,165
+"1812002","Ruxolitinib 10 mg BID",16,0,0,1,0,0,165
+"1812002","Ruxolitinib 10 mg BID",366,0,0,0,1,0,165
+"1812003","Ruxolitinib 10 mg BID",170,0,0,1,0,0,165
+"1812003","Ruxolitinib 10 mg BID",562,0,0,0,0,1,165
+"1812006","Ruxolitinib 10 mg BID",84,0,0,1,0,0,165
+"1812006","Ruxolitinib 10 mg BID",168,0,0,0,0,1,165
+"1813001","Ruxolitinib 10 mg BID",32,0,0,1,0,0,165
+"1813001","Ruxolitinib 10 mg BID",397,0,0,0,1,0,165
+"1813002","Ruxolitinib 10 mg BID",21,0,0,1,0,0,165
+"1813002","Ruxolitinib 10 mg BID",505,0,0,0,0,1,165
+"1813003","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"1813003","Ruxolitinib 10 mg BID",569,0,0,0,0,1,165
+"1819001","Ruxolitinib 10 mg BID",85,0,0,1,0,0,165
+"1819001","Ruxolitinib 10 mg BID",729,0,0,0,0,1,165
+"1822002","Ruxolitinib 10 mg BID",16,0,0,1,0,0,165
+"1822002","Ruxolitinib 10 mg BID",342,0,0,0,0,1,165
+"1902002","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"1902002","Ruxolitinib 10 mg BID",189,0,0,0,1,0,165
+"1903001","Ruxolitinib 10 mg BID",28,0,0,1,0,0,165
+"1903001","Ruxolitinib 10 mg BID",763,0,0,0,0,1,165
+"1903002","Ruxolitinib 10 mg BID",14,1,0,0,0,0,165
+"1903003","Ruxolitinib 10 mg BID",89,0,0,1,0,0,165
+"1903003","Ruxolitinib 10 mg BID",735,0,0,0,0,1,165
+"1903005","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"1903005","Ruxolitinib 10 mg BID",476,0,0,0,0,1,165
+"1903006","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"1903006","Ruxolitinib 10 mg BID",300,0,0,0,1,0,165
+"2001002","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"2001002","Ruxolitinib 10 mg BID",239,0,0,0,0,1,165
+"2001003","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2001003","Ruxolitinib 10 mg BID",814,0,0,0,0,1,165
+"2001006","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2001006","Ruxolitinib 10 mg BID",791,0,0,0,0,1,165
+"2001007","Ruxolitinib 10 mg BID",32,0,0,1,0,0,165
+"2001007","Ruxolitinib 10 mg BID",126,0,0,0,0,1,165
+"2001011","Ruxolitinib 10 mg BID",84,0,0,1,0,0,165
+"2001011","Ruxolitinib 10 mg BID",315,0,0,0,0,1,165
+"2003001","Ruxolitinib 10 mg BID",79,1,0,0,0,0,165
+"2004003","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2004003","Ruxolitinib 10 mg BID",175,0,0,0,1,0,165
+"2102001","Ruxolitinib 10 mg BID",57,0,0,1,0,0,165
+"2102001","Ruxolitinib 10 mg BID",574,0,0,0,0,1,165
+"2102003","Ruxolitinib 10 mg BID",179,0,1,0,0,0,165
+"2102005","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"2102005","Ruxolitinib 10 mg BID",168,0,0,0,1,0,165
+"2103004","Ruxolitinib 10 mg BID",28,0,0,1,0,0,165
+"2103004","Ruxolitinib 10 mg BID",483,0,0,0,0,1,165
+"2104001","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2104001","Ruxolitinib 10 mg BID",389,0,0,0,0,1,165
+"2107002","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"2107002","Ruxolitinib 10 mg BID",744,0,0,0,0,1,165
+"2107004","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"2107004","Ruxolitinib 10 mg BID",678,0,0,0,0,1,165
+"2107006","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2107006","Ruxolitinib 10 mg BID",570,0,0,0,0,1,165
+"2107007","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2107007","Ruxolitinib 10 mg BID",491,0,0,0,0,1,165
+"2107010","Ruxolitinib 10 mg BID",17,0,0,1,0,0,165
+"2107010","Ruxolitinib 10 mg BID",444,0,0,0,0,1,165
+"2111002","Ruxolitinib 10 mg BID",0,1,0,0,0,0,165
+"2113002","Ruxolitinib 10 mg BID",28,0,0,1,0,0,165
+"2113002","Ruxolitinib 10 mg BID",324,0,0,0,0,1,165
+"2114002","Ruxolitinib 10 mg BID",30,0,0,1,0,0,165
+"2114002","Ruxolitinib 10 mg BID",609,0,0,0,0,1,165
+"2114003","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2114003","Ruxolitinib 10 mg BID",228,0,0,0,0,1,165
+"2115001","Ruxolitinib 10 mg BID",179,0,1,0,0,0,165
+"2115002","Ruxolitinib 10 mg BID",29,0,0,1,0,0,165
+"2115002","Ruxolitinib 10 mg BID",132,0,0,0,1,0,165
+"2118001","Ruxolitinib 10 mg BID",28,0,0,1,0,0,165
+"2118001","Ruxolitinib 10 mg BID",812,0,0,0,0,1,165
+"2118002","Ruxolitinib 10 mg BID",0,1,0,0,0,0,165
+"2118003","Ruxolitinib 10 mg BID",13,0,0,1,0,0,165
+"2118003","Ruxolitinib 10 mg BID",188,0,0,0,1,0,165
+"2118006","Ruxolitinib 10 mg BID",0,1,0,0,0,0,165
+"2118007","Ruxolitinib 10 mg BID",0,1,0,0,0,0,165
+"2201003","Ruxolitinib 10 mg BID",50,1,0,0,0,0,165
+"2201005","Ruxolitinib 10 mg BID",56,0,0,1,0,0,165
+"2201005","Ruxolitinib 10 mg BID",414,0,0,0,0,1,165
+"2201006","Ruxolitinib 10 mg BID",28,0,0,1,0,0,165
+"2201006","Ruxolitinib 10 mg BID",392,0,0,0,0,1,165
+"2201008","Ruxolitinib 10 mg BID",106,0,0,1,0,0,165
+"2201008","Ruxolitinib 10 mg BID",169,0,0,0,0,1,165
+"2202001","Ruxolitinib 10 mg BID",56,1,0,0,0,0,165
+"2203001","Ruxolitinib 10 mg BID",179,0,1,0,0,0,165
+"2203002","Ruxolitinib 10 mg BID",179,0,1,0,0,0,165
+"2204002","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"2204002","Ruxolitinib 10 mg BID",520,0,0,0,0,1,165
+"2206002","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2206002","Ruxolitinib 10 mg BID",651,0,0,0,0,1,165
+"2207001","Ruxolitinib 10 mg BID",179,0,1,0,0,0,165
+"2207003","Ruxolitinib 10 mg BID",28,1,0,0,0,0,165
+"2209001","Ruxolitinib 10 mg BID",28,0,0,1,0,0,165
+"2209001","Ruxolitinib 10 mg BID",95,0,0,0,1,0,165
+"2209002","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2209002","Ruxolitinib 10 mg BID",81,0,0,0,1,0,165
+"2210002","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2210002","Ruxolitinib 10 mg BID",490,0,0,0,0,1,165
+"2211001","Ruxolitinib 10 mg BID",55,0,0,1,0,0,165
+"2211001","Ruxolitinib 10 mg BID",566,0,0,0,1,0,165
+"2212001","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2212001","Ruxolitinib 10 mg BID",27,0,0,0,1,0,165
+"2212002","Ruxolitinib 10 mg BID",56,0,0,1,0,0,165
+"2212002","Ruxolitinib 10 mg BID",305,0,0,0,1,0,165
+"2214001","Ruxolitinib 10 mg BID",28,0,0,1,0,0,165
+"2214001","Ruxolitinib 10 mg BID",374,0,0,0,0,1,165
+"2214002","Ruxolitinib 10 mg BID",179,1,0,0,0,0,165
+"2215001","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2215001","Ruxolitinib 10 mg BID",726,0,0,0,0,1,165
+"2215003","Ruxolitinib 10 mg BID",57,0,0,1,0,0,165
+"2215003","Ruxolitinib 10 mg BID",637,0,0,0,0,1,165
+"2216001","Ruxolitinib 10 mg BID",16,0,0,1,0,0,165
+"2216001","Ruxolitinib 10 mg BID",434,0,0,0,0,1,165
+"2402001","Ruxolitinib 10 mg BID",7,1,0,0,0,0,165
+"2402004","Ruxolitinib 10 mg BID",179,0,1,0,0,0,165
+"2501001","Ruxolitinib 10 mg BID",84,0,0,1,0,0,165
+"2501001","Ruxolitinib 10 mg BID",338,0,0,0,1,0,165
+"2501002","Ruxolitinib 10 mg BID",179,0,1,0,0,0,165
+"2601003","Ruxolitinib 10 mg BID",16,0,0,1,0,0,165
+"2601003","Ruxolitinib 10 mg BID",42,0,0,0,1,0,165
+"2701002","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2701002","Ruxolitinib 10 mg BID",224,0,0,0,0,1,165
+"2701003","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2701003","Ruxolitinib 10 mg BID",229,0,0,0,0,1,165
+"2702003","Ruxolitinib 10 mg BID",83,0,0,1,0,0,165
+"2702003","Ruxolitinib 10 mg BID",268,0,0,0,0,1,165
+"2702005","Ruxolitinib 10 mg BID",55,0,0,1,0,0,165
+"2702005","Ruxolitinib 10 mg BID",232,0,0,0,0,1,165
+"2801001","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"2801001","Ruxolitinib 10 mg BID",91,0,0,0,0,1,165
+"2801002","Ruxolitinib 10 mg BID",29,0,0,1,0,0,165
+"2801002","Ruxolitinib 10 mg BID",722,0,0,0,0,1,165
+"2801005","Ruxolitinib 10 mg BID",179,0,1,0,0,0,165
+"2801006","Ruxolitinib 10 mg BID",29,0,0,1,0,0,165
+"2801006","Ruxolitinib 10 mg BID",659,0,0,0,0,1,165
+"2801007","Ruxolitinib 10 mg BID",57,0,0,1,0,0,165
+"2801007","Ruxolitinib 10 mg BID",568,0,0,0,0,1,165
+"2801008","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"2801008","Ruxolitinib 10 mg BID",435,0,0,0,1,0,165
+"2801011","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"2801011","Ruxolitinib 10 mg BID",177,0,0,0,1,0,165
+"2801012","Ruxolitinib 10 mg BID",29,0,0,1,0,0,165
+"2801012","Ruxolitinib 10 mg BID",407,0,0,0,0,1,165
+"2902002","Ruxolitinib 10 mg BID",112,0,0,1,0,0,165
+"2902002","Ruxolitinib 10 mg BID",644,0,0,0,0,1,165
+"2902003","Ruxolitinib 10 mg BID",107,1,0,0,0,0,165
+"2902004","Ruxolitinib 10 mg BID",0,1,0,0,0,0,165
+"2902005","Ruxolitinib 10 mg BID",16,0,0,1,0,0,165
+"2902005","Ruxolitinib 10 mg BID",392,0,0,0,0,1,165
+"2904001","Ruxolitinib 10 mg BID",58,0,0,1,0,0,165
+"2904001","Ruxolitinib 10 mg BID",793,0,0,0,0,1,165
+"2904003","Ruxolitinib 10 mg BID",17,0,0,1,0,0,165
+"2904003","Ruxolitinib 10 mg BID",480,0,0,0,0,1,165
+"2904004","Ruxolitinib 10 mg BID",32,0,0,1,0,0,165
+"2904004","Ruxolitinib 10 mg BID",504,0,0,0,0,1,165
+"2905001","Ruxolitinib 10 mg BID",17,0,0,1,0,0,165
+"2905001","Ruxolitinib 10 mg BID",471,0,0,0,0,1,165
+"2905003","Ruxolitinib 10 mg BID",16,0,0,1,0,0,165
+"2905003","Ruxolitinib 10 mg BID",400,0,0,0,0,1,165
+"2906001","Ruxolitinib 10 mg BID",179,0,1,0,0,0,165
+"2908001","Ruxolitinib 10 mg BID",179,1,0,0,0,0,165
+"2912001","Ruxolitinib 10 mg BID",112,0,0,1,0,0,165
+"2912001","Ruxolitinib 10 mg BID",229,0,0,0,0,1,165
+"3101002","Ruxolitinib 10 mg BID",1,1,0,0,0,0,165
+"3102003","Ruxolitinib 10 mg BID",179,1,0,0,0,0,165
+"3102004","Ruxolitinib 10 mg BID",72,0,0,1,0,0,165
+"3102004","Ruxolitinib 10 mg BID",114,0,0,0,1,0,165
+"3201003","Ruxolitinib 10 mg BID",52,0,0,1,0,0,165
+"3201003","Ruxolitinib 10 mg BID",95,0,0,0,1,0,165
+"3201005","Ruxolitinib 10 mg BID",56,1,0,0,0,0,165
+"3201006","Ruxolitinib 10 mg BID",56,0,0,1,0,0,165
+"3201006","Ruxolitinib 10 mg BID",311,0,0,0,0,1,165
+"3204002","Ruxolitinib 10 mg BID",13,0,0,1,0,0,165
+"3204002","Ruxolitinib 10 mg BID",187,0,0,0,0,1,165
+"3204003","Ruxolitinib 10 mg BID",29,0,0,1,0,0,165
+"3204003","Ruxolitinib 10 mg BID",169,0,0,0,0,1,165
+"3205001","Ruxolitinib 10 mg BID",56,0,0,1,0,0,165
+"3205001","Ruxolitinib 10 mg BID",141,0,0,0,0,1,165
+"3205002","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"3205002","Ruxolitinib 10 mg BID",154,0,0,0,0,1,165
+"3205004","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"3205004","Ruxolitinib 10 mg BID",160,0,0,0,0,1,165
+"3205005","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"3205005","Ruxolitinib 10 mg BID",32,0,0,0,1,0,165
+"3205007","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"3205007","Ruxolitinib 10 mg BID",98,0,0,0,1,0,165
+"3301002","Ruxolitinib 10 mg BID",29,0,0,1,0,0,165
+"3301002","Ruxolitinib 10 mg BID",362,0,0,0,0,1,165
+"3301006","Ruxolitinib 10 mg BID",79,0,0,1,0,0,165
+"3301006","Ruxolitinib 10 mg BID",646,0,0,0,0,1,165
+"3301008","Ruxolitinib 10 mg BID",31,0,0,1,0,0,165
+"3301008","Ruxolitinib 10 mg BID",395,0,0,0,0,1,165
+"3301010","Ruxolitinib 10 mg BID",31,0,0,1,0,0,165
+"3301010","Ruxolitinib 10 mg BID",87,0,0,0,0,1,165
+"3303002","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"3303002","Ruxolitinib 10 mg BID",511,0,0,0,0,1,165
+"3303003","Ruxolitinib 10 mg BID",30,0,0,1,0,0,165
+"3303003","Ruxolitinib 10 mg BID",478,0,0,0,0,1,165
+"3303004","Ruxolitinib 10 mg BID",29,0,0,1,0,0,165
+"3303004","Ruxolitinib 10 mg BID",240,0,0,0,1,0,165
+"3303005","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"3303005","Ruxolitinib 10 mg BID",225,0,0,0,0,1,165
+"3304001","Ruxolitinib 10 mg BID",29,0,0,1,0,0,165
+"3304001","Ruxolitinib 10 mg BID",185,0,0,0,1,0,165
+"3304003","Ruxolitinib 10 mg BID",58,1,0,0,0,0,165
+"3401004","Ruxolitinib 10 mg BID",179,0,1,0,0,0,165
+"3403001","Ruxolitinib 10 mg BID",179,0,1,0,0,0,165
+"3403006","Ruxolitinib 10 mg BID",17,0,0,1,0,0,165
+"3403006","Ruxolitinib 10 mg BID",115,0,0,0,1,0,165
+"3410003","Ruxolitinib 10 mg BID",59,0,0,1,0,0,165
+"3410003","Ruxolitinib 10 mg BID",94,0,0,0,1,0,165
+"3411002","Ruxolitinib 10 mg BID",28,0,0,1,0,0,165
+"3411002","Ruxolitinib 10 mg BID",43,0,0,0,1,0,165
+"3411003","Ruxolitinib 10 mg BID",179,0,1,0,0,0,165
+"3412001","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"3412001","Ruxolitinib 10 mg BID",93,0,0,0,1,0,165
+"3421002","Ruxolitinib 10 mg BID",179,0,1,0,0,0,165
+"3425001","Ruxolitinib 10 mg BID",24,1,0,0,0,0,165
+"3425002","Ruxolitinib 10 mg BID",142,0,0,1,0,0,165
+"3425002","Ruxolitinib 10 mg BID",310,0,0,0,1,0,165
+"3429001","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"3429001","Ruxolitinib 10 mg BID",730,0,0,0,0,1,165
+"3431003","Ruxolitinib 10 mg BID",113,0,0,1,0,0,165
+"3431003","Ruxolitinib 10 mg BID",426,0,0,0,0,1,165
+"3435001","Ruxolitinib 10 mg BID",179,1,0,0,0,0,165
+"3441001","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"3441001","Ruxolitinib 10 mg BID",490,0,0,0,0,1,165
+"3601001","Ruxolitinib 10 mg BID",29,0,0,1,0,0,165
+"3601001","Ruxolitinib 10 mg BID",612,0,0,0,0,1,165
+"3701002","Ruxolitinib 10 mg BID",67,0,0,1,0,0,165
+"3701002","Ruxolitinib 10 mg BID",377,0,0,0,0,1,165
+"3701003","Ruxolitinib 10 mg BID",30,0,0,1,0,0,165
+"3701003","Ruxolitinib 10 mg BID",308,0,0,0,0,1,165
+"3905002","Ruxolitinib 10 mg BID",28,0,0,1,0,0,165
+"3905002","Ruxolitinib 10 mg BID",517,0,0,0,0,1,165
+"3905004","Ruxolitinib 10 mg BID",90,0,0,1,0,0,165
+"3905004","Ruxolitinib 10 mg BID",177,0,0,0,1,0,165
+"3905007","Ruxolitinib 10 mg BID",112,0,0,1,0,0,165
+"3905007","Ruxolitinib 10 mg BID",224,0,0,0,0,1,165
+"3906002","Ruxolitinib 10 mg BID",15,0,0,1,0,0,165
+"3906002","Ruxolitinib 10 mg BID",235,0,0,0,0,1,165
+"3906003","Ruxolitinib 10 mg BID",31,0,0,1,0,0,165
+"3906003","Ruxolitinib 10 mg BID",64,0,0,0,1,0,165
+"4002002","Ruxolitinib 10 mg BID",14,0,0,1,0,0,165
+"4002002","Ruxolitinib 10 mg BID",130,0,0,0,1,0,165
