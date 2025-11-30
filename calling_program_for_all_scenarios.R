@@ -47,6 +47,7 @@ run_multiple_simulations <- function(scenarios, num_cores, num_sims_per_core, al
 
 # Define your scenarios
 # base scenarios (without sample size)
+# for high censoring replace lambda_cens = 0.3 by lambda_cens = 1.2
 base_scenarios <- list(
   list(scenario_name = "N1",
        lambda01 = 1, lambda02 = 0.6, lambda12raw = 0.5, slope12 = 0.4, lambda_cens = 0.3),
@@ -57,15 +58,22 @@ base_scenarios <- list(
   list(scenario_name = "N4",
        lambda01 = 0.5, lambda02 = 0.6, lambda12raw = 0.8, slope12 = 0.4, lambda_cens = 0.3),
   list(scenario_name = "N5",
-       lambda01 = 1.5, lambda02 = 0.6, lambda12raw = 0.8, slope12 = 0.4, lambda_cens = 0.3),
+       lambda01 = 0.5, lambda02 = 0.6, lambda12raw = 0.8, slope12 = 0, lambda_cens = 0.3),
   list(scenario_name = "N6",
+       lambda01 = 1.5, lambda02 = 0.6, lambda12raw = 0.8, slope12 = 0.4, lambda_cens = 0.3),
+  list(scenario_name = "N7",
+       lambda01 = 1.5, lambda02 = 0.6, lambda12raw = 0.8, slope12 = 0, lambda_cens = 0.3),
+  list(scenario_name = "N8",
        lambda01 = 1.5, lambda02 = 0.6, lambda12raw = 0.2, slope12 = 0.1, lambda_cens = 0.3),
+  list(scenario_name = "N9",
+       lambda01 = 1.5, lambda02 = 0.6, lambda12raw = 0.2, slope12 = 0, lambda_cens = 0.3),
+### alternative scenarios
   list(scenario_name = "A1",
        scenario_C = list(lambda01 = 1, lambda02 = 0.6, lambda12raw = 0.5, slope12 = 0.4, lambda_cens = 0.3),
        scenario_T = list(lambda01 = 1.2, lambda02 = 0.5, lambda12raw = 0.3, slope12 = 0.2, lambda_cens = 0.4)),
   list(scenario_name = "A2",
        scenario_C = list(lambda01 = 1, lambda02 = 0.6, lambda12raw = 0.5, slope12 = 0.0, lambda_cens = 0.3),
-       scenario_T = list(lambda01 = 1.5, lambda02 = 0.5, lambda12raw = 0.2, slope12 = 0.1, lambda_cens = 0.3)),
+       scenario_T = list(lambda01 = 1.5, lambda02 = 0.6, lambda12raw = 0.2, slope12 = 0.1, lambda_cens = 0.3)),
   list(scenario_name = "A3",
        scenario_C = list(lambda01 = 1.4, lambda02 = 0.6, lambda12raw = 0.7, slope12 = 0.2, lambda_cens = 0.3),
        scenario_T = list(lambda01 = 0.9, lambda02 = 0.6, lambda12raw = 0.15, slope12 = 0.1, lambda_cens = 0.3)),
